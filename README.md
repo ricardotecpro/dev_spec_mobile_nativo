@@ -1,5 +1,3 @@
-### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
-
 # Desenvolvimento Android: 
 ## Do Zero ao Profissional com Kotlin e Jetpack Compose
 
@@ -100,3 +98,7 @@ Ao final do curso, o aluno terá construído um aplicativo completo, "Catálogo 
 * Sistema de "Favoritos" com persistência de dados local (Room).
 * Arquitetura profissional MVVM e Clean Architecture com injeção de dependência (Hilt).
 * Código testado e pronto para ser publicado.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

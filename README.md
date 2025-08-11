@@ -1,5 +1,7 @@
-### **Desenvolvimento Android Moderno: Do Zero ao Profissional com Kotlin e Jetpack Compose**
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
 
+# Desenvolvimento Android: 
+## Do Zero ao Profissional com Kotlin e Jetpack Compose
 
 **Público-Alvo:**
 * Iniciantes em programação com noções de lógica.

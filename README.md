@@ -1,4 +1,4 @@
-# Desenvolvimento Android: 
+# Desenvolvimento Android
 ## Do Zero ao Profissional com Kotlin e Jetpack Compose
 
 **Público-Alvo:**
